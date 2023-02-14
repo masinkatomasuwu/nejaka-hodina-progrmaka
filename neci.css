@@ -1,0 +1,86 @@
+p.pokus{
+    color: red;
+    background-color: green;
+}
+
+h3.pokus{
+    color: green;
+    background-color: red;
+}
+
+
+.hlavní nadpis {
+
+}
+
+
+.poidnadpis{
+
+}
+
+
+.nazev clanku{
+
+}
+
+h1.nadpis{
+text-align: center;
+text-decoration: underline;
+}
+
+
+h2.nadpis{
+margin-left: 20vw;
+text-decoration: line-through;
+}
+
+
+h3.nadpis{
+color: blue;
+}
+
+
+
+
+table,ol{
+    background-color: red;
+    color: yellow;
+}
+
+/*
+
+ol{
+    background-color: red;
+}
+
+*/
+
+
+div b{
+    color: purple;
+}
+
+
+
+div>p{
+    background-color: yellowgreen;
+}
+
+
+
+h4 + p{
+   text-align: center; 
+}
+
+h6~p {
+    text-align: right;
+    margin-right: 5vw;
+}
+
+
+
+
+
+
+
+
